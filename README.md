@@ -1,3 +1,4 @@
+[![Board Status](https://somachan.visualstudio.com/e588f555-1352-42f0-828e-63ea6b57f44e/24b18105-c655-45b5-87a8-d33a1e97d392/_apis/work/boardbadge/833ea897-6a37-4333-982b-a2c1eb515505)](https://somachan.visualstudio.com/e588f555-1352-42f0-828e-63ea6b57f44e/_boards/board/t/24b18105-c655-45b5-87a8-d33a1e97d392/Microsoft.RequirementCategory)
 # Visual Studio Code - Open Source
 
 [![Build Status](https://travis-ci.org/Microsoft/vscode.svg?branch=master)](https://travis-ci.org/Microsoft/vscode) [![Build status](https://ci.appveyor.com/api/projects/status/vuhlhg80tj3e2a0l?svg=true)](https://ci.appveyor.com/project/VSCode/vscode)
